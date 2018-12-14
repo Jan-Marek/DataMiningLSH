@@ -1,0 +1,11 @@
+(Reuters) - Atlanta took down its water department website indefinitely on Thursday, two weeks after a ransomware cyber attack tore through the city’s computer systems in one of the most disruptive hacks ever to strike a U.S. local government.
+A view of Atlanta's City Hall, in Atlanta, Georgia, U.S. March 31, 2018. REUTERS/Laila Kearney
+“The Department of Watershed Management’s website ... will be offline for server maintenance and updates until further notice,” the City of Atlanta wrote on Twitter.
+Atlanta’s watershed department was among the operations hard-hit by the March 23 attack that continues to block access to databases, postpone municipal court dates and stifle the city’s ability to collect some payments for public services.
+Employees with the water department said they were unable to turn on their work computers or gain wireless internet access for roughly a week after the attack, but they were instructed to report to their offices at City Hall anyway.
+Many of the department’s systems have lumbered back to life in recent days, but there is still disruption, said one employee, who asked not to be identified.
+“There’s definitely work not being done and there’s definitely bills not being able to be paid,” the employee said.
+Hackers used a potent computer virus known as SamSam to encrypt large swaths of city data in the attack and demanded a payment of six bitcoins, worth $51,000 at the time, to release the information.
+Atlanta Mayor Keisha Lance Bottoms, who took office in January, has declined to say whether the city was negotiating with the hackers.
+City officials have not disclosed the extent to which its computer backup systems were corrupted or what type of data is unable to be recovered without paying the ransom.
+A federal criminal investigation into the breach is under way.

@@ -1,0 +1,24 @@
+We all know about the Data Protection Act – the rules that govern who gains, keeps and distributes your all-important personal data and how.
+As headlines of massive data breaches have broken one after another like one long line of waves onto the shores of privacy, it has become increasingly important – albeit in an oddly abstract way.
+But now a major shake-up is on the cards that will radically shift the power of ownership back into the hands of the little people. And most of us know nothing about it.
+From next May, the General Data Protection Regulation (GDPR) will replace the Data Protection Act, bringing with it all sorts of requirements to make companies take far greater care of the personal data they hold about us.
+Taking back control
+They will, for example, have to declare if there is a breach or loss of that data immediately. They will also have to provide valid reasons, founded in law, for asking for deeply private information, such as our sexuality or religion.
+Meanwhile, businesses will need a real person in place who can be held accountable for the way information is stored and used.
+But while that is all important, the biggest change is that individuals will be able to ask for a copy of the information held about them.
+Known as a Subject Access Request or SAR, customers and clients should expect a response within 30 days, with failure to comply potentially carrying a fine worth 4 per cent of the entire business’s turnover.
+It is a regulation that comes from the European Parliament, the Council of the European Union and the European Commission in a bid to unify data protection for all citizens of the European Union while clamping down on the way data is exported out of the EU.
+As it is not a directive that would require national governments to pass legislation to make it law, it will become binding and applicable in the UK regardless of Brexit.
+Indeed, for British consumers it could not have come at a more opportune time.
+In the dark
+A third of UK adults are now concerned about their personal data falling into the wrong hands – both through illegal hacking and the infuriating but perfectly legal practice (with the right permissions) of selling data on. Customers are already able to ask for the information but it involves a fee and can take up to 40 days.
+Barely 30 per cent of us know that the GDPR legislation is on its way. Financial services providers in particular may be hoping it stays that way as many predict an avalanche of requests is set to engulf the customer services arms of our major banks and building societies.
+Almost 60 per cent of all UK consumers are expected to demand such information, which should be delivered in a “permanent” format, mostly paper, which is causing some security headaches in itself.
+Julie Evans, chief operating officer of Exonar, one of the businesses to have sprung up in response to the legislation, said May will mark a turning point in privacy and companies should expect that millions of us will be raising a SAR.
+“The good news for consumers is they won’t be charged to obtain the information companies hold on them and they will have a far greater say in how the information is used,” she said. “They’ll even have the ‘right to be forgotten’. But at the moment people are ignorant about the changes.
+“That’s good news for businesses because they need all the time they can get to be ready to deal with the influx in requests.
+“Take the banking sector for example, around 21 million of us have a current account, so the banks could expect to see around seven million people raise a SAR. NatWest even tweeted recently that it thinks there will be huge demand in SARs when it drops the £10 fee.”
+Information avalanche
+But the effect will not just be felt by banks. Almost two in five people will ask their credit card provider or social media platform what information they have. About one in ten will ask for records from a mobile network provider or a utility company and one in 20 will demand records from retailers.
+“The cost to business will be huge,” Evans adds. “Just imagine the time a bank will need to take copies of all the information held about an individual across all the different departments; bank statements, credit card information, insurance details, CRM data, credit checks, emails and letters etc. There’s no way to recoup this cost other than to put prices up across the board.”
+With the right to be forgotten also set to be enshrined in the GDPR, some also predict a PPI style industry will develop. Meanwhile, all that paper has also drawn concerns from environmentalists.

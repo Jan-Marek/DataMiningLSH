@@ -1,0 +1,18 @@
+LONDON (Reuters) - Britain’s markets watchdog will step up its scrutiny of the initial coin offering (ICO) market to see if new rules are needed to protect investors after issuing an alert in September.
+FILE PHOTO: A coin representing the bitcoin cryptocurrency is seen on computer circuit boards in this illustration picture, October 26, 2017. REUTERS/Dado Ruvic/File Photo
+Start-ups have begun issuing new digital currencies via ICOs and the market has raised about 3.7 billion pounds this year according to an industry estimate.
+The Financial Conduct Authority (FCA) said it would gather further evidence on the market and conduct a deeper examination of what it called fast-paced developments.
+“Our findings will help to determine whether or not there is need for further regulatory action in this area,” the FCA said in a statement on Friday.
+Paul Lewis, a lawyer at Linklaters, said the legal and regulatory treatment of ICOs were often complex and unclear due to many jurisdictions being involved.
+He said the FCA’s had sent “a signal that regulators are seeking to bring greater control to the ICO market, but it is far too early in the development of this market to predict what the settled or common regulatory approach will be.”
+The watchdog said it had noticed steady growth in the volume of contracts for differences (CFDs) trades linked to digital currencies. CFDs allow investors to gain indirect exposure to price movements in an underlying asset like digital currencies.
+“This trend raises significant concerns about potential harm to retail consumers,” the FCA said.
+The watchdog issued an alert on the products last month.
+Jake Green, financial regulatory partner at law firm Ashurst, said the CFD industry was awaiting new European Union laws in January which give EU regulators powers to ban products.
+“I think it is now a matter of ‘when’ and not ‘if’ that we will see the European Securities and Markets Authority (ESMA) exercise power in relation to limit certain types of offerings – digital currencies maybe where they start,” Green said.
+ESMA said on Friday it is considering measures to prohibit the marketing, distribution or sale of binary options to retail clients and restrict the marketing, distribution or sale to retail clients of CFDs, including rolling spot forex. (bit.ly/2yGx85b)
+The FCA, in a separate statement, said it supported ESMA in its consideration of potential EU-wide product intervention. (bit.ly/2yFVEn9)
+FCA Chief Executive Andrew Bailey told the BBC on Thursday that investors in digital currencies like bitcoin should be prepared to lose all their money.
+The FCA also published feedback to its public consultation on blockchain, or distributed ledger technology (DLT), the shared electronic database architecture that underpins digital currencies like bitcoin.
+“Based on the feedback and its own work, overall the FCA is open to all forms of deployment of DLT ... provided the operational risks are properly identified and mitigated,” the watchdog said.
+No new regulatory requirements were needed for blockchain at this stage, the FCA said.

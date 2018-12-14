@@ -1,0 +1,5 @@
+LONDON (Reuters) - Germany’s SAP is revising how it prices its core business planning software after a legal crackdown against high-profile customers - beverage giants Diageo and AB InBev - backfired among its wider customer base, who feared they might be hit by hidden, indirect charges.
+FILE PHOTO: SAP logo at SAP headquarters in Walldorf, Germany, January 24, 2017. REUTERS/Ralph Orlowski/File Photo
+The company said on Tuesday it will offer a new model for sales, license audits and pricing that will serve as an alternative to its decades-old approach to charging customers by the number of users accessing its software.
+The new pricing model, known as “indirect access” covers the increasing use of SAP with non-SAP systems, running automated processes in the cloud or handling machine-to-machine transactions by internet-connected devices or sensors, the so-called “internet of things”.
+The changes mean customers pay handling fees only when significant business processes or outcomes are achieved, rather than simply because a random technical process was triggered, indirectly, through an SAP software system.

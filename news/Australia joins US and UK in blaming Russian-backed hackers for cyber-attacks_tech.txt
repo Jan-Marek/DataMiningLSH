@@ -1,0 +1,21 @@
+Australia has joined the US and UK in publicly blaming Russia for a “malicious” global cyber-attack last year. The attack appeared to be an attempt at espionage, stealing intellectual property and laying the foundation for a future attack on infrastructure.
+Australia joined a coordinated announcement sheeting the blame home to Russian state-sponsored actors. The US and the UK held rare coordinated conference calls on Monday to reveal their findings on the malicious activity identified in August 2017.
+The attacks targeted Cisco routers with “Smart Install” and potentially affected government departments, companies and infrastructure facilities running Cisco equipment.
+US and UK blame Russia for 'malicious' cyber-offensive Read more
+Tensions with Russia have escalated since the US and UK’s weekend strikes on targets in Syria suspected of being involved in the manufacture of chemical weapons.
+While Australia did not take part in the strikes – the US, UK and France carried them out – Australia has been part of previous actions in Syria. There has been speculation that Russia will retaliate in the form of cyber-attacks.
+It took months of investigations to trace the origin of the August cyber-attacks, authorities said, and Tuesday’s announcement was not in response to developments in Syria.
+“Based on advice from Australian intelligence agencies, and in consultation with our allies, the Australian government has determined that Russian state-sponsored actors are responsible for this activity, which occurred in 2017,” the minister for law enforcement and cybersecurity, Angus Taylor, said in a said in a statement.
+“These incidents are unacceptable and the Australian government calls on all countries, including Russia, not to take actions that could lead to damage of critical infrastructure that provide services to the public.
+“Commercially available routers were used as a point of entry, demonstrating that every connected device is vulnerable to malicious activity.”
+While a significant number of Australian organisations had been affected, there was no indication Australian information had been compromised, he said.
+The Australian Cyber Security Centre has been providing mitigation advice to companies and internet service providers that may have been affected.
+In August it issued a warning saying that switches with Cisco Smart Install accessible from the internet, and routers or switches with simple network management protocol enabled and exposed to the internet, were vulnerable.
+It said that the malicious activity enabled sensitive information, such as device administrative credentials, to be accessed and that it could be used to compromise the routers and then lead to other devices on the network being targeted.
+Cyber-attack risk on nuclear weapons systems 'relatively high' – thinktank Read more
+“Access to the device may facilitate malicious cyber adversaries gaining access to the information that flows through the device,” the agency warned.
+US and UK officials said in their conference call they had high confidence that Russia was to blame.
+In a joint statement, said they said the cyber-attack had been aimed not just at the UK and US but globally. “Specifically, these cyber-exploits were directed at network infrastructure devices worldwide such as routers, switches, firewalls, network intrusion detection system,” it said.
+“Russian state-sponsored actors are using compromised routers to conduct spoofing ‘man-in-the-middle’ attacks to support espionage, extract intellectual property, maintain persistent access to victim networks and potentially lay a foundation for future offensive operations.”
+The US and UK have previously blamed Russia for cyber-attacks such as the crippling attacks last year that created disruption worldwide, including to the National Health Service, and an intrusion into the US energy grid.
+But they portrayed this as far more serious because of the potential to undermine infrastructure. Millions of machines had been targeted in a “sustained” campaign and the US and UK admitted they still did not know the full extent to which the system had been compromised.

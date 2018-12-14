@@ -1,0 +1,11 @@
+NEW YORK (Reuters) - Amber Baldet, a blockchain programme lead at JPMorgan Chase & Co (JPM.N), is leaving the bank to launch her own venture, JPMorgan said on Monday.
+A J.P. Morgan logo is seen in New York City, U.S. January 10, 2017. REUTERS/Stephanie Keith
+Baldet, one of the best-known executives focused on blockchain at a major lender, led JPMorgan’s Blockchain Center of Excellence and helped the bank set its strategy for the nascent technology.
+Baldet will be replaced by Christine Moy, a senior product manager in the bank’s Blockchain Center of Excellence, according to an internal bank memo sent on Monday and seen by Reuters.
+The memo was sent by Umar Farooq, head of channels, analytics and innovation for treasury services and head of blockchain initiatives for JPMorgan’s corporate and investment bank.
+“Amber is extremely talented and helped build the outstanding team we have today,” JPMorgan spokeswoman Jessica Francisco told Reuters in a written statement. “We respect her desire to start her own venture and we wish her nothing but the best.”
+Blockchain originally emerged as the technology powering cryptocurrencies such as bitcoin, but banks and other large corporations have been seeking to adapt it to run some of their processes.
+They believe that the distributed database technology can help them simplify and reduce the costs of their businesses like securities settlement and payments processing.
+JPMorgan has been active in the space through initiatives like Quorum, a type of blockchain it developed for enterprises to build business applications. Reuters reported last month that the bank was considering spinning off Quorum.
+In her role at JPMorgan, Baldet led product development for Quorum and was tasked with helping set the corporate and investment bank’s blockchain strategy.
+Moy had been leading blockchain product development for the bank’s investor services and capital markets business.

@@ -1,0 +1,18 @@
+Europe is thinking about giving advanced robots rights and responsibilities. Many experts say that's a terrible idea.
+The European Parliament passed a resolution last year that envisions a special legal status of "electronic persons" for the most sophisticated autonomous robots.
+The proposal is being considered by the European Commission, Europe's top regulator.
+More than 150 experts in robotics, artificial intelligence, law, medical science and ethics weighed into the debate on Thursday, with a clear warning against such a move.
+In an open letter to the European Commission, they said that the proposals appear to be influenced more by science fiction than the real world.
+The lawmakers argue that giving advanced robots legal status would make it possible to hold machines to account for any damage they may cause. Mady Delvaux, the parliamentarian who drafted the proposal, was not immediately available to comment on the letter.
+The European Commission is working on an initiative on artificial intelligence which will be presented at the end of April.
+"Artificial intelligence can bring major benefits to our society and economy ... but it also raises questions, for example, related to the impact of AI on our society and the future of work," a Commission spokesperson said.
+The experts said the European Parliament's proposal could allow manufacturers, programmers and owners of robots to claim they were not responsible for them.
+In the letter, the experts argued that granting robots legal status would be inappropriate -- and that the whole idea is based on a perception of robots "distorted by science fiction and a few recent sensational press announcements."
+Related: Jeff Bezos takes robotic dog for a walk
+Nathalie Nevejans, an expert in the ethics of robotics at Artois University in France, was one of the letter's signatories. She said the idea of granting robots legal personality is "as unhelpful as it is inappropriate."
+It is impossible for a robot to take part in society without a human operator, and that won't change for the foreseeable future, she added.
+"The legal personality would blur the relation between the man and the machine so that the legislator could progressively move towards the attribution of rights to the robot," she said. "This would be utterly counterproductive to the extent that we develop them to serve us."
+The experts said Europe should create rules for robotics and artificial intelligence to ensure safety and foster innovation, but not based on a vision of a future ruled by robot overlords.
+Related: Can this robotic fish fool real fish into revealing their secrets?
+The parliament's proposals are part of Europe's attempts to be prepared for the future. The resolution says robots should have to be registered with authorities, and that laws should be written to make sure robots serve humanity and are not used to cause damage.
+However, the parliament rejected an earlier suggestion that if robots start replacing human workers, their owners should pay tax or contribute to social security costs.

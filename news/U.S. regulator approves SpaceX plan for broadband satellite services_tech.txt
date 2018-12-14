@@ -1,0 +1,16 @@
+WASHINGTON (Reuters) - The top U.S. telecommunications regulator on Thursday gave formal approval to a plan by Elon Musk’s SpaceX to build a global broadband network using satellites.
+SpaceX founder Elon Musk smiles at a press conference following the first launch of a SpaceX Falcon Heavy rocket at the Kennedy Space Center in Cape Canaveral, Florida, U.S., February 6, 2018. REUTERS/Joe Skipper
+“This is the first approval of a U.S.-licensed satellite constellation to provide broadband services using a new generation of low-Earth orbit satellite technologies,” the Federal Communications Commission said in a statement.
+The system proposed by privately held SpaceX, as Space Exploration Holdings is known, will use 4,425 satellites, the FCC said.
+FCC Chairman Ajit Pai in February had endorsed the SpaceX effort, saying: “Satellite technology can help reach Americans who live in rural or hard-to-serve places where fiber optic cables and cell towers do not reach.”
+The Federal Aviation Administration said on Wednesday that SpaceX plans to launch a Falcon 9 rocket on April 2 at Cape Canaveral, Florida. “The rocket will carry a communications satellite,” the FAA said.
+FILE PHOTO - SpaceX founder Elon Musk speaks at a press conference following the first launch of a SpaceX Falcon Heavy rocket at the Kennedy Space Center in Cape Canaveral, Florida, U.S., February 6, 2018. REUTERS/Joe Skipper
+The FCC said SpaceX has been granted authority to use frequencies in the Ka (20/30 GHz) and Ku (11/14 GHz) bands.
+Musk, who is also the founder and chief executive of electric automaker Tesla Inc (TSLA.O), said in 2015 that SpaceX planned to launch a satellite-internet business that would help fund a future city on Mars.
+SpaceX wanted to create a “global communications system” that Musk compared to “rebuilding the internet in space.” It would be faster than traditional internet connections, he said.
+“This is an important step toward SpaceX building a next-generation satellite network that can link the globe with reliable and affordable broadband service, especially reaching those who are not yet connected,” SpaceX Chief Operating Officer Gwynne Shotwell said.
+Over the past year, the FCC has approved requests by OneWeb, Space Norway and Telesat to access the U.S. market to provide broadband services using satellite technology that the FCC said “holds promise to expand internet access in remote and rural areas across the country.”
+About 14 million rural Americans and 1.2 million Americans on tribal lands lack mobile broadband even at relatively slow speeds.
+FCC Commissioner Jessica Rosenworcel, a Democrat, said on Thursday that the agency needs “to prepare for the proliferation of satellites in our higher altitudes.”
+She highlighted the issue of orbital debris and said the FCC “must coordinate more closely with other federal actors to figure out what our national policies are for this jumble of new space activity.”
+(This version of the story corrects to attribute SpaceX comment to its COO in the ninth paragraph)

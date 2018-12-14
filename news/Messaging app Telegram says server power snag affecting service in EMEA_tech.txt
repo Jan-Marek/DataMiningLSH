@@ -1,0 +1,3 @@
+(Reuters) - A power outage at messaging app Telegram’s server cluster is causing connection issues for users in Europe, Middle East and CIS countries, the app said in a Twitter post on Thursday.
+The Telegram app logo is seen on a smartphone in this picture illustration taken September 15, 2017. REUTERS/Dado Ruvic/Illustration
+The company is working to fix the issue and expects power to be back up very soon, Telegram founder Pavel Durov tweeted on Thursday.

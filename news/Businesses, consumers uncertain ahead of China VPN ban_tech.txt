@@ -1,0 +1,14 @@
+BEIJING (Reuters) - Businesses and consumers in China are bracing themselves ahead of a March 31 ban on non-state sanctioned virtual private networks (VPNs), saying regulators have not provided clarity on how the ban will be implemented.
+A computer network cable is seen above a Chinese flag in this July 12, 2017 illustration photo. REUTERS/Thomas White/Illustration
+VPNs, which can bypass China’s Great Firewall, the world’s most extensive effort to try to control cyberspace, allow companies and individuals to secure access to information stored outside the country and gain access to websites blocked in China, including news sites, social media and search engines.
+New regulations introduced last year ban companies and consumers from using VPNs that are not government approved, starting on Sunday, but it is still not clear how strictly the rules will be implemented.
+Businesses say they have not received directives from authorities about the ban and say the lack of transparency around the rules is cause for concern.
+“We’re not expecting a sudden impact, but at the same time there is no clarity, it’s not helpful” said a Beijing-based executive at a U.S. tech firm who declined to be identified because of the sensitivity of the subject.
+“We have products that have been removed or reviewed in the past under similar laws ... we are fairly confident that there will be a discussion before there are any rash moves,” the executive said.
+The Cyberspace Administration of China and the Ministry of Industry and Information Technology, which together drafted the new rules, did not respond immediately to faxed requests for comment.
+The ruling Communist Party has tightened controls on society since President Xi Jinping assumed power, from online censorship to a crackdown on activists and non-governmental organizations.
+Officials say China has a sovereign right to govern the internet as it sees fit, and its expansive national security and cyber security regulations are needed to address threats such as hacking and terrorism.
+Foreign diplomats say officials have rebuffed efforts to discuss the cyber rules, and they warn that the restrictions could harm China’s image, undermine its competitiveness and put a dent in international cooperation.
+In January, Lester Ross, head of a policy committee at the American Chamber of Commerce in China, told reporters the VPN rules could put a burden on small businesses forced to pay for expensive international private leased circuits (IPLC) to get beyond the Great Firewall.
+“For larger companies, in many instances they already have these and it’s a cost of business they can absorb. But for smaller companies, it’s a real problem,” he said.
+“It’s all part and parcel of the party’s emphasis on data control and information control. This is likely to be an even bigger concern as we go forward.”

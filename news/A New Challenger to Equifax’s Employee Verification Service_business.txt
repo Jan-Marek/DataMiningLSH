@@ -1,0 +1,9 @@
+Photo
+A start-up is taking on Equifax’s employee verification service, and it now has a bit of a war chest too.
+The new company, Truework, will try to compete with an Equifax service known as The Work Number, which helps employers handle all of the irritating notices they receive from banks and other entities that want to verify a person’s employment history and salary. The gears of consumer credit can’t function well without this process, but it’s a pain for employers and, as a result, a lucrative business for Equifax.
+Most employees do not know that their employer hands over sensitive information to Equifax and similar services each pay period, even though workers have agreed to some kind of employment check somewhere along the way. And Equifax does not notify those workers each time it gives information to a bank or a potential landlord.
+Truework aims to change that, promising that employees will receive a message at their work email address each time an entity seeks information about them. The recipients would click to see what information their employers plan to share and can approve the handoff.
+Advertisement Continue reading the main story
+“These things were built for lenders, which is fine,” said Ryan Sandler, a Truework co-founder who previously worked at LinkedIn. “But they left employers and employees as the second and third priority. We wanted to flip the model on its head.”
+Photo
+Employers pay to use these services, as do banks and others that grant credit. Mr. Sandler said that his company intends to charge banks at least one-third less than Equifax does. This week, it announced that it had raised $2.9 million from several investors to help the effort.

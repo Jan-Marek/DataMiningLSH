@@ -1,0 +1,16 @@
+WASHINGTON (Reuters) - T-Mobile USA Inc (TMUS.O) agreed to pay $40 million on Monday to resolve government claims that it failed to fix problems completing phone calls in rural areas and used false ring tones, which are banned, to give the impression faulty calls were actually getting through, the Federal Communications Commission said.
+A T-Mobile logo is advertised on a building sign in Los Angeles, California, U.S., May 11, 2017. REUTERS/Mike Blake
+T-Mobile, a unit of Deutsche Telekom AG (DTEGn.DE), agreed to changes and acknowledged that false ring tones were used on hundreds of millions of long-distance rural calls in violation of FCC rules.
+Democratic FCC Commissioner Mignon Clyburn said in a statement that T-Mobile’s “massively deceptive and harmful violations” of the rules likely impacted “billions of telephone calls to rural areas over the past several years.”
+She criticized the FCC settlement, saying the fine was inadequate given the harm, and that Democratic commissioners were not included in the settlement negotiations. She said there is “absolutely nothing in this consent decree to compensate consumers.”
+FCC Chairman Ajit Pai said in a statement that it “is a basic tenet of the nation’s phone system that calls be completed to the called party, without a reduction in the call quality — even when the calls pass through intermediate providers.”
+T-Mobile said it had corrected what it called the “unintentional” issue in January 2017 and added that it is “committed to all of our customers across the country.”
+False ring tones “cause callers to believe that the phone is ringing at the called party’s premises when it is not,” the FCC said, noting uncompleted calls “cause rural businesses to lose revenue, impede medical professionals from reaching patients in rural areas, cut families off from their relatives, and create the potential for dangerous delays in public safety communications.”
+NTCA-The Rural Broadband Association praised the FCC announcement. “Continued vigilance on the part of industry and the commission, combined with enforceable regulatory backstops, clearly remain essential to ensure that rural call failure will not compromise the integrity of our nation’s networks,” Chief Executive Shirley Bloomfield said.
+The FCC order did not disclose if any of the hundreds of millions of calls with false ring tones were actually completed.
+In July, the FCC said “given the relatively high rates long-distance providers incur to terminate long-distance calls to rural carriers, long-distance providers have an incentive to reduce the per-minute cost of calls.”
+That gives companies a greater incentive “to hand off a call
+to an intermediate provider that is offering to deliver it cheaply,” the FCC said.
+T-Mobile told the FCC that in 2007 it began using servers that included a “Local Ring Back Tone” for calls from certain customers that took more than a certain amount of time to complete.
+The FCC in 2014 banned carriers from broadcasting false ring tones, but the agency said in settlement documents that T-Mobile acknowledged it was still using the tones for out-of-network calls from its customers for some calls.
+Rural America has poorer wireless coverage than other areas.

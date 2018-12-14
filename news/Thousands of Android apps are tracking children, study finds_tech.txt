@@ -1,0 +1,25 @@
+More than 3,300 smartphone apps have been improperly collecting data on children, researchers have discovered.
+A study of 5,855 Android apps on Google Play found that more than half of them were potentially violating US privacy laws that protect children under 13 from invasive data collection.
+The researchers from the International Computer Science Institute used a new automated system to determine whether the apps complied with the Children’s Online Privacy Protection Act (COPPA).
+“Given the number of children’s apps and a complex third-party ecosystem, analysis at scale is important to properly understand the privacy landscape,” the study states.
+“Although we cannot know the true number of children’s apps in the Play Store, we believe that our results are representative given that the apps that we examined represent the most popular free ones.”
+This method was able to give an indication of the scale of the problem, however the researchers said it was up to regulators like the Federal Trade Commission (FTC) to actually evaluate each app and enforce the law if appropriate.
+While thousands of apps may be in violation of privacy laws, one of the most disturbing findings from the study was that 256 of the apps collected the location data of children without the permission of parents.
+Other data improperly collected included personal details like names, email addresses and phone numbers.
+The researchers did not have access to Apple’s iOS data, meaning it was not possible to evaluate apps running on iPhones and iPads.
+A spokesperson for Google was not immediately available for comment.
+Unintentionally terrifying children's movies
++ show all Unintentionally terrifying children's movies
+1/7 Most people know to steer well clear of this one by now. If not, you obviously escaped one of the most scarring childhood memories, that of cute baby Bambi’s mother being shot dead by hunters, leaving him sad and alone in the woods. Rex Features
+2/7 Ursula makes a pact with mermaid Ariel that she will make her human in return for her voice. Her voice! She must then get a man to fall in love with her, without being able to speak. Every feminist’s nightmare.
+3/7 This one is seriously trippy. It’s Disney’s third ever movie but instead of pretty dresses and Prince Charmings and happily ever afters, all we got was a visit to Satan’s lair in ‘Night on Bald Mountain’.
+4/7 That fairground is enough to put you off any old-fashioned fun for life. It’s called Pleasure Island but there is absolutely zero pleasure involved whatsoever. Naughty boys are turned into donkeys and the whole wooden puppet coming alive thing doesn’t really do it for us either.
+5/7 There are plenty of frankly horrifying moments in this supposed children’s film from 1941, but none so harrowing as the scene when Dumbo visits his imprisoned, supposedly mad mummy elephant and she sings him a lullaby while cradling him in her trunk.
+6/7 This ‘movie about bunnies’ may look cute enough but Watership Down is proof that animation does not equal adorable. It’s possibly the most traumatic film you’ll have seen in, well, forever. It’s really bloody in parts and should quite clearly never have been rated a U, even in 1978.
+7/7 Tiny Thumbelina is kidnapped by toads shortly after birth, nearly drowns in a waterfall, betrothed to a blind old mole who lives underground, forced to dress as a bug and dance at a freaky insect ball, spanked by Mr Beetle with a cane and her lover Prince Cornelius is frozen in an ice block. Oh and her best friend nearly dies. Lovely.
+The study comes as more than 20 consumer advocacy groups claimed that YouTube is violating COPPA by deliberately profiting from the data collection of children.
+The coalition called on the FTC to investigate the Google subsidiary and potentially impose billions of dollars of penalties.
+Privacy advocates warned at the time that the issue stretched far beyond YouTube and was much broader than a single company.
+“This problem is not limited to YouTube,” Evan Greer, campaign director at US digital rights group Fight For the Future, told The Independent.
+“Tech companies like Facebook have built a business model based on harvesting, analysing, and selling massive amounts of user data, including the data of vulnerable people like children - putting all of us at risk.”
+The Independent's bitcoin group on Facebook is the best place to follow the latest discussions and developments in cryptocurrency. Join here for the latest on how people are making money – and how they're losing it.

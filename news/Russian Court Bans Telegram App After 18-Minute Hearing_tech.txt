@@ -1,0 +1,7 @@
+Photo
+MOSCOW — A Moscow court cleared the way on Friday for the government to ban Telegram, the messaging app, over its failure to give Russian security services the ability to read users’ encrypted messages.
+Roskomnadzor, the Russian communications and technology watchdog, had asked the court for the authority to block the app, and for the ban to take immediate effect. It took the court all of 18 minutes to grant the request, after scheduling the hearing just one day before. Telegram had ordered its lawyers to skip the hearing in protest of the hurried process.
+The ruling came a month after Telegram lost a lawsuit it brought against the Federal Security Service, or F.S.B., Russia’s powerful and secretive security agency, which had demanded access to messages. The Kremlin pushed through a sweeping antiterrorism law in 2016 that mandated providing the security services backdoor access to encrypted applications, among other measures.
+Telegram said last month that it now has 200 million active monthly users, many of them in the lands of the former Soviet Union and the Middle East. Because of its strong privacy protections, it has long been a favorite of the Islamic State and other extremist groups.
+Advertisement Continue reading the main story
+There was no immediate comment from Pavel Durov, the Telegram founder, a Russian who fled the country in 2014 after losing control of the Russian social network Vkontakte, which he had also created.

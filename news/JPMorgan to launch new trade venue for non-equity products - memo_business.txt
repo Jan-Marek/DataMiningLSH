@@ -1,0 +1,7 @@
+LONDON (Reuters) - JP Morgan Chase & CO, one of the world’s top bond dealers, is planning to launch a new trading venue for all non-equity instruments, according to the contents of a memo sent to clients and seen by Reuters.
+People walk inside JP Morgan headquarters in New York, October 25, 2013. REUTERS/Eduardo Munoz (UNITED STATES - Tags: BUSINESS SCIENCE TECHNOLOGY LOGO)
+The move of its current bank trading system to a dealing platform structured as a “systematic internaliser” (SI) is in response to new European Union rules set to go live in January.
+The EU’s Markets in Financial Instruments Directive, or MiFID II, aims to push more trading onto regulated public exchanges where prices and participants are visible to all and comes into effect on Jan. 3.
+Trading in fixed income markets is more opaque than equities with bonds largely traded via Bloomberg, Tradeweb, which is majority owned by Thomson Reuters Corp and a multitude of banks’ own trading platforms.
+But some investors seeking anonymity and lower fees are likely to opt instead to trade on SIs — run by banks and other market participants — which reveal much less information about impending transactions than more traditional exchanges and other trading platforms.
+After the move, the U.S. investment bank said more pre-trade and post-trade information would be made available to trading platforms such as Tradeweb and BATS.

@@ -1,0 +1,7 @@
+(Reuters) - Bakery-cafe chain Panera Bread’s website leaked customer records for at least eight months, cyber security blog KrebsOnSecurity reported on Monday.
+The sign on the hood of a delivery truck for Panera Bread Co. is seen in Westminster, Colorado February 11, 2015. REUTERS/Rick Wilking
+The blog post here said the data leak included names, email and physical addresses, birthdays and the last four digits of credit card number of "millions" of customers who ordered food online on the company's website, panerabread.com.
+Panera Bread told Reuters the issue was resolved.
+“Our investigation is continuing, but there is no evidence of payment card information nor a large number of records being accessed or retrieved,” Panera Bread’s Chief Information Officer John Meister said in a statement.
+Meister also said the company’s investigation into the matter to date indicated that fewer than 10,000 consumers had been potentially affected and it was working to finalize the investigation and take the appropriate next steps.
+The St. Louis-based company, which competes with Chipotle Mexican Grill Inc (CMG.N), was acquired by privately owned German conglomerate JAB Holding in 2017.

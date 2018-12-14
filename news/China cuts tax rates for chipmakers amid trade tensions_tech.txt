@@ -1,0 +1,12 @@
+BEIJING (Reuters) - China’s finance ministry said on Friday it has introduced tax breaks for chipmakers made in the country, at a time when the government is seeking to reduce dependence on foreign semiconductors amid trade tensions with the United States over technology transfers.
+The move comes as the United States is considering imposing tariffs on $50 billion worth of Chinese exports, citing discriminatory trade practices in high-tech sectors, including semiconductors.
+Chipmakers will be exempt from corporate taxes for two to five years followed by partial deductions, the ministry said in a notice posted on its website.
+The exemptions cover a range of products, from very basic to cutting-edge chips, for use in computers, smartphones and other electronic devices.
+The new rules are effective from Jan. 1, 2018.
+China relies heavily on foreign semiconductors, which make up one of its largest import categories by value. It is seeking to overtake foreign rivals and become a top semiconductor producer by 2030, according to its own roadmap.
+China’s ambitions have riled overseas regulators however, who have blocked several acquisition attempts by Chinese firms looking to speed up development through technology transfers.
+U.S. President Donald Trump’s administration is requesting China purchase more semiconductors from the United States as part of a plan to avoid proposed tariffs and a potential trade war, Reuters reported on Tuesday.
+According to Friday’s notice, companies producing high-end chips using 65 nanometre technology or smaller with an investment of over 15 billion yuan ($2.39 billion) will be exempt from corporate taxes for five years. Companies producing chips using 130 nanometre technology or smaller will be tax exempt for two years.
+The new rules will mostly benefit China’s larger, older chipmakers which can promise higher investment and large-scale production.
+China had 171 chip fabrication plants as of the end of 2016, accounting for roughly 14 percent of total global capacity, according to PwC, but produces less sophisticated chips than its foreign competitors.
+The country has allocated extensive national funding to boost production. Last year leading chipmaker Tsinghua Unigroup Ltd signed deals with China Development Bank [CHDB.UL] and China’s national integrated circuit fund for financing of up to 150 billion yuan.
