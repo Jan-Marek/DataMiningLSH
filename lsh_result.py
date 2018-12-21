@@ -45,36 +45,38 @@ if __name__ == '__main__':
               "lsh_results" : []}
 
     times = []
-    results = []
     for num_perm in num_perms:
         print("Use num_perm = %d" % num_perm)
         start = time.clock()
         print("Running lsh on documents")
         for i in range(len(docs)):
             name = 'm'+str(i)
-            locals()['m'+str(i)] = MinHash(num_perm=128)
+            locals()['m'+str(i)] = MinHash(num_perm=num_perm)
             for d in docs[i]:
                 locals()['m'+str(i)].update(d.encode('utf8'))
 
-        lsh = MinHashLSH(threshold=0.1, num_perm=128)
+        lsh = MinHashLSH(threshold=0.1, num_perm=num_perm)
         for i in range(len(docs)):
             lsh.insert("m{}".format(i),locals()['m'+str(i)])
-        duration = time.clock() - start
-        times.append(duration)
+
+        print("LSH duration:", time.clock()-start)
         for i in range(len(docs)):
             name = 'candi'+str(i)
             name = 'result'+str(i)
             locals()['result'+str(i)] = lsh.query(locals()['m'+str(i)])
             locals()['candi'+str(i)] = get_candidates(locals()['result'+str(i)])
 
+        results = []
         for i in range(len(docs)):
             dist = {}
             for key in locals()['candi'+str(i)]:
                 jac = _compute_jaccard(docs[key], docs[1])
                 dist[key] = jac
-
             result = sorted(dist, key=dist.get, reverse=True)[1:51]
             results.append(result)
+
+        duration = time.clock() - start
+        times.append(duration)
 
         output["lsh_times"].append(times)
         output["lsh_results"].append(results)
