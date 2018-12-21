@@ -2,6 +2,7 @@ import numpy as np
 import os
 import re
 from sklearn.metrics.pairwise import cosine_similarity
+import pandas as pd
 
 # read files and get the set of words used in the corpus
 def get_words(dirname, regex_filter):
@@ -36,20 +37,34 @@ def tf_idf(dirname):
     words_in_documents = np.sum(word_matrix, axis=1)
     tf = word_matrix/words_in_documents.reshape(len(words_in_documents), 1)
     tfidf = tf*idf
-    return tfidf
+    return tfidf, file_list
 
+# Find duplicates in corpus
+# Parameters:
+#   dirname - directory where corpus files are found
+#   x_best  - return top x_best number of matches
+# Returns:
+#   sim_top   - each row contains indices that represent top_x matches for file given by row index
+#   file_list - mapping index -> filename
+def get_duplicates(dirname, x_best=50):
+    tfidf, file_list = tf_idf(dirname)
+    # finds the pairwise similarity between all documents in the corpus
+    sim = cosine_similarity(tfidf, tfidf)
+    sim_sorted = np.argsort(sim, axis=1)
 
+    sim_top = []
+    for idx, row in enumerate(sim_sorted):
+        tmp = row[::-1][:x_best+1]
+        # remove self-similarity
+        tmp = tmp[tmp!=idx]
+        sim_top.append(tmp)
 
+    sim_top = np.array(sim_top)
+    # print(sim_top[1,:])
+    # print(sim_top.shape)
+    return sim_top, file_list
 
-# print(tf.shape)
-# print(idf.shape)
+sim_top, file_list = get_duplicates("news", 50)
 
-tfidf = tf_idf("news")
-print(tfidf.shape)
-# print(word_matrix.shape)
-# print(word_matrix)
-
-
-# finds the pairwise similarity between all documents in the corpus
-sim = cosine_similarity(tfidf, tfidf)
-print(sim.shape)
+print("Top match for file {}".format(file_list[1]))
+print("is: {}".format(file_list[sim_top[1,0]]))
