@@ -3,7 +3,7 @@ import os
 import re
 from sklearn.metrics.pairwise import cosine_similarity
 import pandas as pd
-
+import json
 # read files and get the set of words used in the corpus
 def get_words(dirname, regex_filter):
     nontext = regex_filter
@@ -66,5 +66,12 @@ def get_duplicates(dirname, x_best=50):
 
 sim_top, file_list = get_duplicates("news", 50)
 
+tmp_list = []
+for line in sim_top:
+    tmp_list.append(list(line))
+
+with open("tfidf_top_50.json", "w") as ofile:
+    json.dump(dict(tfidf_results = [sim_top.tolist()]), ofile)
 print("Top match for file {}".format(file_list[1]))
 print("is: {}".format(file_list[sim_top[1,0]]))
+
