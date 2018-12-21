@@ -9,14 +9,14 @@ Finding similar or near-duplicate documents using LSH
     - [x] Find efficient way of running this for all documents
     - [x] Find top 50 matches
 2) Implement LSH (probably minhash) 
-    - [ ] Find top 50 matches using LSH
+    - [X] Find top 50 matches using LSH
     - [ ] Experiment with LSH configurations to approach accuraccy of TF-IDF
     - [ ] Compare speed/accuraccy
-    - [ ] Define writing LSH MinHash Class
-    - [ ] Try MinHash LSH on small dataset
+    - [X] Define writing LSH MinHash Class
+    - [X] Try MinHash LSH on small dataset
     - [ ] Define Plot function of benchmark
-    - [ ] Try all the documents
-    - [ ] Try different parameters
+    - [X] Try all the documents
+    - [X] Try different parameters
     - [ ] Plot
 3) Report results
 
