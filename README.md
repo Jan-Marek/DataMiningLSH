@@ -7,7 +7,7 @@ Finding similar or near-duplicate documents using LSH
 1) Find top matches for each document using TF-IDF
     - [x] Refactor TF-IDF algorithm
     - [x] Find efficient way of running this for all documents
-    - [ ] Find top 50 matches
+    - [x] Find top 50 matches
 2) Implement LSH (probably minhash) 
     - [ ] Find top 50 matches using LSH
     - [ ] Experiment with LSH configurations to approach accuraccy of TF-IDF
